@@ -13,3 +13,7 @@ has utilizado simbolos? No no e utilizado simbolos
 has sacado algo de este ejercicio? nada 
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/conceptos.jpeg)
+
+# DISEÑOS 
+
+![PRIMER DISEÑO](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/primera%20prueba.svg)
