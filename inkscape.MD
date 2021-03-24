@@ -11,3 +11,5 @@ para paz:he hecho la paloma por que representa la paz y el amor
 has utilizado simbolos? No no e utilizado simbolos
 
 has sacado algo de este ejercicio? nada 
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/conceptos.jpeg)
