@@ -17,3 +17,5 @@ has sacado algo de este ejercicio? nada
 # DISEÑOS 
 
 ![PRIMER DISEÑO](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/primera%20prueba.svg)
+
+![SEGUNDO DISEÑO](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/primera%20prueba.svg)
