@@ -21,3 +21,11 @@ has sacado algo de este ejercicio? nada
 ![SEGUNDO DISEÑO](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/primera%20prueba.png)
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/LOLAMENTO.png)
+
+[](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/1879%20Un%20vieux%20Monarche%20RB.jpg.svg)
+
+[]()
+
+[]()
+
+[]()
