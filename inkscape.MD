@@ -24,7 +24,7 @@ has sacado algo de este ejercicio? nada
 
 [](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/1879%20Un%20vieux%20Monarche%20RB.jpg.svg)
 
-[]()
+[](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-03-24%2013-53-27.png)
 
 []()
 
