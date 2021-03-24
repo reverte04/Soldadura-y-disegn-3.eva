@@ -28,4 +28,4 @@ has sacado algo de este ejercicio? nada
 
 [](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-03-24%2013-54-47.png)
 
-[]()
+[](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/segunda.svg)
