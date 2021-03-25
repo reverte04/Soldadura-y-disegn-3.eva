@@ -37,11 +37,11 @@ PRIMER DISEÑO
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/relleno%201.svg)
 
-![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%201.png)
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%201.png)(he hecho un cambio de color breve y poco notorio)
 
-![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%202.png)
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%202.png)(he hecho un trazo fino del mismo color)
 
-![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%203.png)
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%203.png)(he hecho un desenfoque)
 
 # MODIFICAR ESTILO DE TRAZO
 
