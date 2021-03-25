@@ -56,6 +56,8 @@ PRIMER DISEÑO
 # BÉZIER
 -LÍNEA
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/B%C3%89ZIER%20l%C3%ADnea.svg)
+
 -CURVA
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/B%C3%89ZIER%20curva.svg)
