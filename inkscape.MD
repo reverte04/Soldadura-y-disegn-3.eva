@@ -53,6 +53,13 @@ PRIMER DISEÑO
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/color%20trazo%20.png)
 
+# BÉZIER
+-LÍNEA
+
+-CURVA
+
+-FORMA A GUSTO
+
 
 # SIGNIFICADOS 
 
