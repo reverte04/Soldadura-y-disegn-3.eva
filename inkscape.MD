@@ -33,6 +33,8 @@ has sacado algo de este ejercicio? nada
 
 # DISEÑOS MODIFICAR RELLENO
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/relleno%201.svg)
+
 # MODIFICAR ESTILO DE TRAZO
 
 # MODIFICAR COLOR DE TRAZO
