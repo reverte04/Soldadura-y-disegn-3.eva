@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="BÉZIER curva.svg"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4101"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4099" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4087"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4083" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4085" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2805"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0"
+         id="stop2803" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="347.40352"
+     inkscape:cy="545.61157"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#5800ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.995074,138.79757 c 24.933867,-23.60398 18.327843,-55.176498 24.933867,-23.60398 6.606024,31.57252 -23.374842,35.71657 -28.679637,15.46072 -5.304792,-20.25586 -42.8654375,-71.586084 2.76071,-28.95283 45.626149,42.63325 95.563296,44.83973 47.009216,42.42984 C 52.465155,141.72144 26.658313,168.53415 52.824006,141.59084 78.9897,114.64753 53.49813,70.458946 78.9897,114.64753 c 25.49157,44.18858 31.32205,95.26391 25.13814,43.99959 -6.18392,-51.26432 -41.068025,-76.628873 -6.18392,-51.26432 34.88411,25.36454 133.55934,10.95092 34.88411,25.36454 -98.675238,14.41362 -140.7057444,37.94412 -98.675238,14.41362 42.030507,-23.53051 38.804397,-20.23567 34.835647,-27.71438 -3.96875,-7.4787 -19.821533,-31.561459 -3.155826,-7.02672 16.665708,24.53474 -2.11578,28.61195 16.665708,24.53474 18.781489,-4.0772 35.411329,-20.05703 18.781489,-4.0772 -16.629848,15.97982 -51.261453,26.18366 -16.629848,15.97982 34.631608,-10.20382 42.704808,22.60552 34.280968,-10.72978"
+       id="path4372" />
+    <path
+       style="fill:none;stroke:#fc0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 129.61818,118.54597 v 1.22214 c 0,0 16.99042,-18.93712 10.48994,-4.4913 -6.50048,14.44583 -92.082835,38.70314 -95.326621,14.87037 -3.243787,-23.83277 -47.934292,-18.67211 -1.727031,-25.07234 46.207259,-6.400228 51.321691,-56.92904 57.372712,-6.967193 6.05102,49.961843 73.49693,51.155143 10.77623,59.801633 -62.720698,8.64648 -71.118797,24.73452 -59.356872,-6.3878 11.761924,-31.12231 -13.455701,-29.52542 13.811945,-32.05969"
+       id="path4374" />
+  </g>
+</svg>
