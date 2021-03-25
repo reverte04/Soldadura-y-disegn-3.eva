@@ -62,6 +62,8 @@ PRIMER DISEÑO
 
 -FORMA A GUSTO
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/B%C3%89ZIER%20libre.svg)
+
 
 # SIGNIFICADOS 
 
