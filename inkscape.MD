@@ -47,6 +47,8 @@ PRIMER DISEÑO
 
 # MODIFICAR COLOR DE TRAZO
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/trazo%201.svg)
+
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/color%20trazo%20.png)
 
 
