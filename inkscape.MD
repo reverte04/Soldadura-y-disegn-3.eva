@@ -36,3 +36,16 @@ has sacado algo de este ejercicio? nada
 # MODIFICAR ESTILO DE TRAZO
 
 # MODIFICAR COLOR DE TRAZO
+
+
+# SIGNIFICADOS 
+
+-Mapa de bits: Son imagenes echas por pixeles en formatos como jpg y png, tambien programas como photoshop y gimp.
+
+-Imagen vectorial: Son imagenes con fórmulas matematicas que generan formas.  
+
+-Modificar relleno:
+
+-Modificar estilo de trazo: 
+
+-Modificar color de trazo: 
