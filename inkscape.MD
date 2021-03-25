@@ -37,6 +37,8 @@ has sacado algo de este ejercicio? nada
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%201.png)
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/parte%202.png)
+
 # MODIFICAR ESTILO DE TRAZO
 
 # MODIFICAR COLOR DE TRAZO
