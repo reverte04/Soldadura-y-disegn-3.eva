@@ -82,7 +82,9 @@ PRIMER DISEÑO
 
 # CORTE LASER 
 
-[]()
+[](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/playboydis%C3%B1.png.svg)
+
+[](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/CAPAPAP.png)
 
 
 # SIGNIFICADOS 
