@@ -1,6 +1,10 @@
 # DOCUMENTAR INKSCAPE 
 
-EJERCICIO DE CONCEPTOS
+## Índice
+
+- [Significados (glosario)](#significados)
+
+## EJERCICIO DE CONCEPTOS
 
 Que has echo y por que?
 para amor:he hecho dos piezas de puzzle que se juntan en echo de amor y cariño
@@ -14,7 +18,7 @@ has sacado algo de este ejercicio? nada
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/conceptos.jpeg)
 
-# DISEÑOS RASTERIZAR  
+## DISEÑOS RASTERIZAR  
 
 ![PRIMER DISEÑO](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/primera%20prueba.svg)
 
@@ -22,7 +26,15 @@ has sacado algo de este ejercicio? nada
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/LOLAMENTO.png)
 
+Aquí hubo fallo. 
+
+Repetimos con otro dibujo:
+
+
 # DISEÑOS VECTORIZAR
+
+[INSERTAR TEXTO]
+
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/1879%20Un%20vieux%20Monarche%20RB.jpg.svg)
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-03-24%2013-53-27.png)
@@ -37,8 +49,10 @@ PRIMER DISEÑO
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/relleno%201%20original.svg)(original)
 
-![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/relleno%201.svg)(he echo un cambio de color poco notorio y aparte e echo un desenfoque bastante notorio)
+(he hecho un cambio de color poco notorio y aparte e echo un desenfoque bastante notorio)
 
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/relleno%201.svg)
 
 
 # MODIFICAR ESTILO DE TRAZO
