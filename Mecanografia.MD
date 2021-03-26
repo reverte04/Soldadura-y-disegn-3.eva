@@ -1,11 +1,11 @@
 ## Mecanografia
 
-(Primer intento dia 1)
+# Primer intento dia 1
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-03-26%2010-30-24.png)
 
 
-(Prueba hasta final de curso)
+# Prueba hasta final de curso
 
 (Publicado en una época en la que los medios y el público seguían cuestionando la carrera de la artista, esperaban que Bedtime Stories fuese publicitado como una disculpa luego de todos los escándalos que la rodearon años anteriores)
 
