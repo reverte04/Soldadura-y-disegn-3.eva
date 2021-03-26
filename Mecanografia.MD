@@ -4,3 +4,7 @@
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-03-26%2010-30-24.png)
 
+
+(Prueba hasta final de curso)
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-03-26%2011-58-07.png)
