@@ -43,6 +43,8 @@ Repetimos con otro dibujo:
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/segunda.svg)
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/dibujo%20jordan.png.svg)
+
 # DISEÑOS MODIFICAR RELLENO
 
 PRIMER DISEÑO
@@ -85,6 +87,22 @@ PRIMER DISEÑO
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/playboydis%C3%B1.png.svg)
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/CAPAPAP.png)
+
+# DISEÑOS 
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-55-46.png)
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-12-36.png)
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-17-23.png)
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-21-13.png)
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-43-00.png)
+
+# PRUEBA FRESADO
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/dibujo%20jordan.png.svg)
 
 
 # SIGNIFICADOS 
