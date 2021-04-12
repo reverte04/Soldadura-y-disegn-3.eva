@@ -8,4 +8,4 @@
 
 [MECANOGRAFIA](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Mecanografia.MD)
 
-[SOLDADURA]()
+[SOLDADURA](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/SOLDADURA.MD)
