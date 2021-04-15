@@ -15,4 +15,4 @@
 [MONTAR DESMONTAR PC](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/PC%20CONFIG.MD)
 
 
-[CORTE LASER]()
+[CORTE LASER](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/corte%20laser.md)
