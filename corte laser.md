@@ -16,3 +16,22 @@
 [FROGWIRE](https://www.frog3d.com/frogwire)
 
 [SODICK](https://www.sodick.com/)
+
+Hemos visto hoy las diferentes técnicas de láser.
+
+Primero hemos visto diferentes formas de cortar con control por ordenador (computer controlled cutting)
+
+Etre estos està el cuchillo:
+
+((((
+
+el plasma 
+
+...
+
+el hilo caliente. 
+
+
+Después hemos entrado en qué es el CAD y qué es el CAM
+
+
