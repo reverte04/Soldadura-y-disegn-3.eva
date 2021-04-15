@@ -12,3 +12,7 @@
 [EPILOG LASER](https://www.epiloglaser.com/laser-machines/product-line.htm)
 
 [OMAX](https://www.omax.com/)
+
+[FROGWIRE](https://www.frog3d.com/frogwire)
+
+[SODICK](https://www.sodick.com/)
