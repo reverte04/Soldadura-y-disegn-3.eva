@@ -38,3 +38,6 @@ Antes de frsesar es muy importante enfocar el láser.
 
 Ángulo salida: el ángulo que forma el rayo reflejado por la normal de la superficie.
 
+
+## Salida viernes tinkerers
+
