@@ -1,37 +1,40 @@
-# CORTE LASER 
-## Apuntes clase 
+# CORTE LASER
 
-[PAGINA ACADEMY](http://academy.cba.mit.edu/classes/computer_cutting/index.html) 
+## Apuntes clase de corte laser
 
-### Maquinas de corte
+### Tipos de máquinas que cortan
 
-[CNC PLASMA CUTTERS](http://forestscientific.com/cnc-plasma-cutters/)
+Otras maquinas que tambien cortan: cuchillo, laser, agua a presion, plasma, hilo caliente, hilo EDM.
 
-[ROLAND ZUND](https://www.zund.com/es)
+[Indice web](http://academy.cba.mit.edu/classes/computer_cutting/index.html)
 
-[EPILOG LASER](https://www.epiloglaser.com/laser-machines/product-line.htm)
+El plasma es un estado de la materia extremadamente energetico que es capaz de cortar metal y otros materiales duros.
 
-[OMAX](https://www.omax.com/)
+La cama es la parte de la maquina de plasma donde se pone la pieza que se quiere cortar.
 
-[FROGWIRE](https://www.frog3d.com/frogwire)
+[La maquina (waterjet)](https://www.wazer.com/)
 
-[SODICK](https://www.sodick.com/)
+### Qué es el CAM y qué es el CAD
 
-Hemos visto hoy las diferentes técnicas de láser.
+CAM = Computer Aided Machining. 
 
-Primero hemos visto diferentes formas de cortar con control por ordenador (computer controlled cutting)
+CAD = Computer Aided Design. Diseño asistido por ordenador.
 
-Etre estos està el cuchillo:
+### Láser própiamente dicho
 
-((((
+Laser = Amplificador de luz a traves de emision de radiacion estimulada.
 
-el plasma 
+Nosotros en concreto en el lab tenemos: La maquina que tienes es castelldefels es de la marca Epilog, y en BCN de la marca Trotec.
 
-...
+Los Laseres tienen (HAZ) = Es la superficie iluminada por el laser.
 
-el hilo caliente. 
+Converger en terminos luminicos significa dirigirse hacia el mismo punto.
 
+Punto focal hace que de 1cm se convierta en 0,01 mm.
 
-Después hemos entrado en qué es el CAD y qué es el CAM
+Antes de frsesar es muy importante enfocar el láser.
 
+Ángulo incidente: el angulo entre el rayo que llega y la vertical.
+
+Ángulo salida: el ángulo que forma el rayo reflejado por la normal de la superficie.
 
