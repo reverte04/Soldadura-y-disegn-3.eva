@@ -41,7 +41,13 @@ Antes de frsesar es muy importante enfocar el láser.
 
 ## Salida viernes tinkerers
 
-!![David en cleta](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/foto8.jpeg) David en cleta y el grupo 1 camninado por la UPC para entrar, estavamos viendo el sitio de vuelo de prueba de los drones,habían muchos estudiantes y profesores.
+![David en cleta](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/foto8.jpeg) David en cleta y el grupo 1 camninado por la UPC para entrar, estavamos viendo el sitio de vuelo de prueba de los drones,habían muchos estudiantes y profesores.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/foto1%20salida.jpeg) En esta foto esta David explicando las diferentes brocas que hay y para que sirve cada una, habían mas gruesas y mas finas, para diferentes tipos de corte, si el corte era muy fino necesitabas unas brocas finas.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/foto4.jpeg) Aqui tenemos uno de lso trabajadores de tinkerers, el es Leo, que nos dejo tirados en clase, le teniamos mucho cariño pero ahora ya no tanto, lo siento Leo.
+
+![]()
 
 
 
