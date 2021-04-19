@@ -41,3 +41,5 @@ Antes de frsesar es muy importante enfocar el láser.
 
 ## Salida viernes tinkerers
 
+![David en cleta](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/foto8.jpeg)
+
