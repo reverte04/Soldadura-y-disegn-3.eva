@@ -7,6 +7,8 @@ Hoy hemos empezado a soldar y la verdad que me a gustado bastante, lo unico que 
 
 ## Desmontaje ordenador
 
+[](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/PC%20CONFIG.MD)
+
 ## Circuito de prueba 
 
 
