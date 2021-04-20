@@ -34,3 +34,5 @@ else { digitalWrite(LED,LOW);
 }
 }
 ```
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/nose.jpeg) Este es el esquema que he programado en el arduino y vamos a hacer soldando.
