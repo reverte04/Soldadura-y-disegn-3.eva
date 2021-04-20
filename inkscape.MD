@@ -137,3 +137,7 @@ Las letras son unos codigos  entre 0 y 1 , en si es un caracter , y te lo transf
 -Modificar estilo de trazo: 
 
 -Modificar color de trazo: 
+
+# DISEÑO DRAGON CASTEFA 
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-20%2012-51-25.png) E hecho el dragon de casteldefels en 3d para imprimirlos con la maquina 3d. Lo primero que e hecho es cojer la imagen del dragon, vectorizarla y borrar a la chica que habia, despues e cojido y lo e pasado al programa tinkercad, e hecho unos retoques y lo e pasado a stl, para poder imprimirlo en 3d
