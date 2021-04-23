@@ -9,6 +9,9 @@ Hoy hemos empezado a soldar y la verdad que me a gustado bastante, lo unico que 
 
 [Enlace al sitio donde lo explico](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/PC%20CONFIG.MD)
 
+![](https://user-images.githubusercontent.com/78345753/115833869-d41e7880-a414-11eb-8bb7-0e65da6e98aa.png) Esta es la primera prueba de soldadura.
+
+
 ## Circuito de prueba 
 
 
