@@ -35,6 +35,10 @@
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/triangulo%20examen%20%203.svg) esta es la figura final en svg.
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-26-46.png) e añadido el rectangulo verde y lo e puesto todo en orden como decia en el papel.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/todo.svg) este es el resultado final en svg.
+
 
 
 
