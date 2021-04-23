@@ -102,6 +102,10 @@ PRIMER DISEÑO
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-43-00.png)
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2009-49-20.png)
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2009-53-38.png)
+
 # PRUEBA FRESADO
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/dibujo%20jordan.png.svg)
