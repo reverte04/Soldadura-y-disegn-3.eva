@@ -132,11 +132,11 @@ Las letras son unos codigos  entre 0 y 1 , en si es un caracter , y te lo transf
 
 -Imagen vectorial: Son imagenes con fórmulas matematicas que generan formas.  
 
--Modificar relleno:
+-Modificar relleno: Es ajustar el relleno de una imagen. 
 
--Modificar estilo de trazo: 
+-Modificar estilo de trazo: Es ajustar la linea de trazo para el corte laser o hacerle un perfilado.  
 
--Modificar color de trazo: 
+-Modificar color de trazo: Es ajustar el color de la linea de trazo para que la configuracion sea mas facil. 
 
 # DISEÑO DRAGON CASTEFA 
 
