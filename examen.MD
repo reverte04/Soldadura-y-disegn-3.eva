@@ -15,3 +15,7 @@
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-47-30.png) Esta es la configuracion puesta a 300 ppp.
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-48-08.png) Esta es la imagen puesta a 100 píxeles osea a 100 ppp 
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/prueba%20examne%201.png) Este es el resultado final en 300 ppp.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/prueba%20examne%202.png) Este es el resultado final en 100 ppp  
