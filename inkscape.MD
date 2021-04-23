@@ -125,6 +125,8 @@ Las letras son unos codigos  entre 0 y 1 , en si es un caracter , y te lo transf
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-09-42.png) para ponerlo en inkscape se pone automaticamente
 
+# DISEÑOS PARA EL CORTE LASER
+
 
 # SIGNIFICADOS 
 
