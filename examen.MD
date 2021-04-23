@@ -25,4 +25,6 @@
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-30.png) Lo primero que e hecho es poner la pagina en 10 mm de ancho y 11 de alto, aparte de eso e puesto mi nombre en color rojo y que no sobresalga de la hoja  
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-04-16.png) Ahora e hecho un triangulo de 6mm x 6mm de color negro que no salga de la pagina.
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/triangulo%20examen%20.svg) Este es el resultdo del triangulo con mi nombre en la esquina. 
