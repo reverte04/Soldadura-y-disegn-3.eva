@@ -18,4 +18,11 @@
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/prueba%20examne%201.png) Este es el resultado final en 300 ppp.
 
-![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/prueba%20examne%202.png) Este es el resultado final en 100 ppp  
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/prueba%20examne%202.png) Este es el resultado final en 100 ppp.
+
+
+## ejercicio 2 medidas personalizadas
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-30.png) Lo primero que e hecho es poner la pagina en 10 mm de ancho y 11 de alto, aparte de eso e puesto mi nombre en color rojo y que no sobresalga de la hoja  
+
+
