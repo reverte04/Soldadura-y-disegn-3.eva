@@ -36,3 +36,5 @@
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/triangulo%20examen%20%203.svg) esta es la figura final en svg.
 
 
+
+
