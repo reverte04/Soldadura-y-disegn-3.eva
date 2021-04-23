@@ -106,7 +106,7 @@ PRIMER DISEÑO
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2009-53-38.png)
 
-![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2009-53-38.png)
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2009-58-54.png)
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2010-07-31.png)
 
