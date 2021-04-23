@@ -9,3 +9,7 @@
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-27-04.png) Ahora e modificado el tamaño de la imagen a 60mm x 60mm manteniendo su proporcion.
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-37-09.png) Despues de modificar el tamaño e tenido que ajustar la página al contenido, para ajustar la página al contenido debemos ir a Archivo y Propiedades del Documento. Nos abrirá este cuadro de dialogo en el que en la pestaña Página, podemos cambiar desde las unidades de medida, hasta la orientación del documento.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-41-12.png) Ahora e añadido 3mm por cada lado a la imagen 
+
+
