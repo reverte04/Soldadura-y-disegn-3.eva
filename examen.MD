@@ -39,6 +39,9 @@
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/todo.svg) este es el resultado final en svg.
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/todo%20vertical.svg) horizontal.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/todo%20horizontal.svg)vertical.
 
 
 
