@@ -43,5 +43,11 @@
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/todo%20horizontal.svg)vertical.
 
+## ejercicio 3 nombre en bezier
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/nombre%20javi%20.svg)
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/nombre%20javi%202.png) este es mi nombre hecho en bezier, no me e inspirado en nada en general solo e tirado de imaginacion y formas basicas dentro de mi cabeza y inkscape, es un nombre con formas muy basicas pero a veces lo basico es lo mejor a simple vista.
+
 
 
