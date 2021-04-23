@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10mm"
+   height="11mm"
+   viewBox="0 0 10 11"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)"
+   sodipodi:docname="todo vertical.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="35.36867"
+     inkscape:cy="20.697604"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.380994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.9836323,2.1656954 c 0,0 0,0 0.091857,5.4009542 0,0 0,0 -5.413204,-2.1319724 C 7.9319903,2.1760501 7.9836353,2.1656953 7.9836353,2.1656953 Z"
+       id="path839" />
+    <path
+       style="fill:#020202;fill-opacity:0.98431373"
+       d="M 1.2341037,7.2884831 C 1.648133,5.8805964 1.648133,5.8805964 1.648133,5.8805964"
+       id="path964" />
+    <path
+       style="fill:#020202;fill-opacity:0.984314;stroke-width:0.00826823"
+       d="M 6.5239123,5.9266367 C 6.1025663,5.9223269 5.8373433,5.9166138 5.8356983,5.9117967 5.8342323,5.9074815 5.5288573,5.811233 5.1571003,5.6978687 4.7853428,5.5845074 4.4789445,5.4909256 4.476215,5.4899086 4.473485,5.4888886 4.480795,5.4563636 4.49246,5.4176306 L 4.513669,5.3471936 4.484208,5.2816786 c -0.016203,-0.036038 -0.026573,-0.068225 -0.023042,-0.07155 0.00353,-0.00336 0.3167343,-0.1509162 0.6960105,-0.3279972 0.379275,-0.177082 0.691526,-0.3246079 0.693891,-0.3278359 0.007,-0.00963 0.01819,-0.00961 0.708945,-0.00115 l 0.663477,0.00809 -0.007,0.6862261 -0.007,0.6862271 z M 5.8371253,4.8965392 c -0.04543,0.017096 -0.9367754,0.4383524 -0.9368203,0.4427452 -8.59e-5,0.0084 0.4687913,0.1493207 0.4753493,0.1428954 0.0031,-0.00297 0.0041,-0.00686 0.0022,-0.00848 -0.0019,-0.00172 -0.09429,-0.030836 -0.205365,-0.064804 -0.1110957,-0.033966 -0.2052401,-0.06496 -0.2092325,-0.068881 -0.00764,-0.00748 0.3043235,-0.1602727 0.6514165,-0.3189919 l 0.203534,-0.093073 0.0049,0.024421 c 0.0068,0.033861 0.0061,0.641976 -7.25e-4,0.6487195 -0.0045,0.00445 -0.269607,-0.071521 -0.376662,-0.1079592 -0.0162,-0.00547 -0.03068,-0.00641 -0.03506,-0.00206 -0.0044,0.00426 0.07846,0.033364 0.200616,0.070406 0.114443,0.034702 0.212712,0.064789 0.218375,0.066847 0.0081,0.00298 0.01109,-0.07376 0.01408,-0.3659372 0.003,-0.2923767 0.0016,-0.3688699 -0.0066,-0.3657816 z"
+       id="path976" />
+    <rect
+       style="fill:#00ff00;fill-opacity:0.984314;stroke-width:0.264583"
+       id="rect1016"
+       width="4.6254001"
+       height="1.280722"
+       x="-7.5450792"
+       y="5.5510101"
+       transform="rotate(-91.644829)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.20429px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0301074"
+       x="-5.4950948"
+       y="7.2017474"
+       id="text1020"
+       transform="rotate(-84.549846)"><tspan
+         sodipodi:role="line"
+         id="tspan1018"
+         x="-5.4950948"
+         y="7.2017474"
+         style="fill:#ff0000;stroke-width:0.0301074">JAVI</tspan></text>
+  </g>
+</svg>
