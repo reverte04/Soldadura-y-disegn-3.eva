@@ -28,3 +28,11 @@
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-04-16.png) Ahora e hecho un triangulo de 6mm x 6mm de color negro que no salga de la pagina.
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/triangulo%20examen%20.svg) Este es el resultdo del triangulo con mi nombre en la esquina. 
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-15-12.png) utilizo un cuadrado y un triangulo para hacer forma de casa.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-17-30.png) ahora a quedado todo junto.
+
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/triangulo%20examen%20%203.svg) esta es la figura final en svg.
+
+
