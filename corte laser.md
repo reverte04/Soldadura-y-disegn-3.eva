@@ -47,7 +47,8 @@ Antes de frsesar es muy importante enfocar el láser.
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/foto4.jpeg) Aqui tenemos uno de los trabajadores de tinkerers, el es Leo, que nos dejo tirados en clase, le teniamos mucho cariño pero ahora ya no tanto, lo siento Leo.
 
-![]()
+
+[DISEÑO PLAYBOY](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/inkscape.MD#corte-laser)
 
 
 
