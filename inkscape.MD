@@ -88,7 +88,7 @@ PRIMER DISEÑO
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/CAPAPAP.png)
 
-![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/playboy.svg)
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/playboy.svg) E hecho el playoy con una linea de trazo roja para poder cortar con el laser y que no quedara mal , ya que era un diseño bastante complicado de 
 
 # DISEÑOS 
 
