@@ -12,4 +12,6 @@
 
 ![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-43-50.png) Ahora e añadido 3mm de margen por cada lado a la imagen 
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-47-30.png) Esta es la configuracion puesta a 300 ppp.
 
+![](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2012-48-08.png) Esta es la imagen puesta a 100 píxeles osea a 100 ppp 
