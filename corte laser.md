@@ -1,42 +1,67 @@
 # CORTE LASER
 
-## Apuntes clase de corte laser
+## Apuntes de clase
 
-### Tipos de máquinas que cortan
+Vamos a ver diferentes maquinas de corte.
 
-Otras maquinas que tambien cortan: cuchillo, laser, agua a presion, plasma, hilo caliente, hilo EDM.
+Otras maquinas que tambien cortan: cuchillo,laser, agua a presion, hilo caliente, hilo EDM.
 
-[Indice web](http://academy.cba.mit.edu/classes/computer_cutting/index.html)
+[Corte con cuchillo](https://www.youtube.com/watch?v=PG9lJOnNTzQ)
 
-El plasma es un estado de la materia extremadamente energetico que es capaz de cortar metal y otros materiales duros.
+Laser marca: epilog es de castelldefels y en Barcelona tienen la de trotec.
 
-La cama es la parte de la maquina de plasma donde se pone la pieza que se quiere cortar.
+El plasma es un estado de la materia extremadamente energetico, es para cortar metal porque se necesita mucha energia.
 
-[La maquina (waterjet)](https://www.wazer.com/)
+### Esto es de la maquina automatica 
 
-### Qué es el CAM y qué es el CAD
+La cama es la superficie orizontal donde vamos a colocar la pieza que vamos a cortar.
 
-CAM = Computer Aided Machining. 
+El puente es un elemento que incluye un rail donde se coloca  la cabeza de la maquina.
 
-CAD = Computer Aided Design. Diseño asistido por ordenador.
+La cabeza de la maquina se puede mover a traves de ese puente.
 
-### Láser própiamente dicho
+[El cortador en hilo caliente](https://www.youtube.com/supported_browsers)
 
-Laser = Amplificador de luz a traves de emision de radiacion estimulada.
+CAM = Computer Aided Machining. Mover maquinas con ayuda del ordenador.
 
-Nosotros en concreto en el lab tenemos: La maquina que tienes es castelldefels es de la marca Epilog, y en BCN de la marca Trotec.
+CAD = Computer Aided Design. Diseño asisitdo por ordenador.
 
-Los Laseres tienen (HAZ) = Es la superficie iluminada por el laser.
+El láser que tenemos en fablab Castelldefels se configura como impresora.
 
-Converger en terminos luminicos significa dirigirse hacia el mismo punto.
+Cortadora de vinilos es una pequeña pieza que tiene un cuter que se puede ir moviendo, tambien se puede 
+usar para hacer circuitos flexibles.
 
-Punto focal hace que de 1cm se convierta en 0,01 mm.
+Láser = Amplificador de luz a traves de emision de radiacion estimulada.
 
-Antes de frsesar es muy importante enfocar el láser.
+Nuestro laser esta en una burbuja de CO2.
 
-Ángulo incidente: el angulo entre el rayo que llega y la vertical.
+Los laseres tienen HAZ.
 
-Ángulo salida: el ángulo que forma el rayo reflejado por la normal de la superficie.
+HAZ es la superficie iluminada por el laser.
+
+Ángulo incidente = el ángulo entre el rayo que llega y la vertical
+
+Ángulo salida = el ángulo que forma el rayo reflejado por la normal de la superficie. 
+
+Converger en termiós lumínicos significa que los rayos de un HAZ vayan hacia un mismo punto.
+
+Punto focal hace lo que eran 2cm sean 0,01mm.
+
+Enfocar el láser.
+
+El rayo sale del tubo de CO2 con un HAZ de 2cm, se refleja en un espejo interno del láser, se refleja en un segundo espejo que esta en el puente y despues se refleja en un tercer espejo que esta en la cabeza y para llegar a una lente focal que convierte el HAzZ en una superficie de 0,01mm.
+
+## Tipografía
+
+Tipografía funciona con numeros binarios y le tienes que decir si es ARIAL, IMPACT, HELVETICA, TIME NEW ROMAN, nunito.
+
+Las tipografías son una definición grafica de caracteres 
+
+.TTF = Tu Tai Fon
+
+.OTF = Open Tai Fon
+
+
 
 
 ## Salida viernes tinkerers
