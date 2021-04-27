@@ -24,4 +24,7 @@
 [PROYECTO VIDEOJUEGO](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/proyecto%20videoujuego.MD)
 
 
+[FRESADO](https://github.com/reverte04/Soldadura-y-disegn-3.eva/blob/main/fresado.MD)
+
+
 
